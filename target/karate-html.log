@@ -1,0 +1,13 @@
+11:56:15.898 skipping bootstrap configuration: could not find or read file: karate-config.js, prefix: CLASSPATH
+11:56:15.934  {
+  "abc": "abc",
+  "def": "def",
+  "xyz": "#ignore"
+}
+
+11:56:15.935  {
+  "abc": "abc",
+  "def": "def",
+  "qwer": "qwer"
+}
+
